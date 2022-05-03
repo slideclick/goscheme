@@ -3,7 +3,7 @@ package main
 import (
 	"os"
 
-	"github.com/Xuyuanp/goscheme/repl"
+	"github.com/slideclick/goscheme/repl"
 )
 
 func main() {

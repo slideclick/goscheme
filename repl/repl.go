@@ -6,7 +6,7 @@ import (
 	"io"
 	"os"
 
-	"github.com/Xuyuanp/goscheme/lexer"
+	"github.com/slideclick/goscheme/lexer"
 )
 
 var lineNumber = 0
